@@ -1,0 +1,6 @@
+﻿Host ubuntu-vm
+    HostName 127.0.0.1
+    Port 2222
+    User devops
+    IdentityFile ~/.ssh/antigravity_vm
+    StrictHostKeyChecking accept-new
